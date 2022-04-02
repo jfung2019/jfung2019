@@ -4,4 +4,4 @@
 - I’m interested in Web Development, and Virtual Reality.
 - Goals: I’m currently learning and striving to become a full stack developer.
 
-My website: https://funglam.herokuapp.com/
+My website: https://funglam.herokuapp.com/ ***(Currently being rebuilt)***
